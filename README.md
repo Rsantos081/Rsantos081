@@ -1,4 +1,4 @@
-# 👋 Hello me chamo Ruan Thomaz! 🌍 
+# 👋 Olá, me chamo Ruan Thomaz! 🌍 
 
 💻 Sou desenvolvedor Backend apaixonado por código e por resolver problemas.
 
