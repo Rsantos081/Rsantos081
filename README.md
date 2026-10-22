@@ -1,12 +1,12 @@
-# 👋 Hello, me chamo Ruan Thomaz! 🌍 
+# 👋 Hello me chamo Ruan Thomaz! 🌍 
 
 💻 Sou um desenvolvedor Backend apaixonado por código e por resolver problemas.
 
-🎓 Estou me formando em Análise e Desenvolvimento de Sistemas.
+🎓 Estou a formar-me em Análise e Desenvolvimento de Sistemas.
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rsantos081&show_icons=true&theme=omni&locale=pt-pt" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rsantos081&show_icons=true&theme=omni&locale=pt-pt&include_all_commits=true&count_private=true" height="150" alt="Estatísticas do GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsantos081&layout=compact&theme=omni" height="150" alt="Linguagens mais usadas"/>
 </div>
 <br>
