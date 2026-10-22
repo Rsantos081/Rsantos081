@@ -2,7 +2,7 @@
 
 💻 Sou desenvolvedor Backend apaixonado por código e por resolver problemas.
 
-🎓 Estou a formar-me em Análise e Desenvolvimento de Sistemas.
+🎓 Estou me formando em Análise e Desenvolvimento de Sistemas.
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
