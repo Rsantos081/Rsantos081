@@ -1,8 +1,8 @@
-# 👋 Hello, world! 🌍 Eu sou Ruan Thomaz
+# 👋 Hello, me chamo Ruan Thomaz! 🌍 
 
 💻 Sou um desenvolvedor Backend apaixonado por código e por resolver problemas.
 
-🎓 Estou me em Análise e Desenvolvimento de Sistemas pela Uninassau.
+🎓 Estou me formando em Análise e Desenvolvimento de Sistemas.
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
@@ -26,3 +26,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
