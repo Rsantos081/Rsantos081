@@ -1,6 +1,6 @@
 # 👋 Hello me chamo Ruan Thomaz! 🌍 
 
-💻 Sou um desenvolvedor Backend apaixonado por código e por resolver problemas.
+💻 Sou desenvolvedor Backend apaixonado por código e por resolver problemas.
 
 🎓 Estou a formar-me em Análise e Desenvolvimento de Sistemas.
 
