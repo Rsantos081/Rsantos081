@@ -5,18 +5,22 @@
   🎓 Estou me formando em Análise e Desenvolvimento de Sistemas.
 </p>
 
-### 📊 Estatísticas do GitHub
+---
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rsantos081&show_icons=true&theme=omni&locale=pt-pt&include_all_commits=true&count_private=true" height="160" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsantos081&layout=compact&theme=omni" height="160" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rsantos081&show_icons=true&theme=omni&locale=pt-pt&include_all_commits=true&count_private=true" height="155" alt="Estatísticas do GitHub" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsantos081&layout=compact&theme=omni" height="155" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rsantos081&bg_color=191E27&color=41B883&line=41B883&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Contribuições" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rsantos081&bg_color=191E27&color=41B883&line=41B883&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Gráfico de Contribuições" />
 </p>
 
-### 🛠️ Tecnologias e Ferramentas
+---
+
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
