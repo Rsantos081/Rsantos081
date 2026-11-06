@@ -30,13 +30,13 @@
 
 <div align="center">
   <h2>📫 Vamos conversar?</h2>
-  <a href="https://www.linkedin.com/in/SEU-PERFIL">
+  <a href="https://www.linkedin.com/in/ruanths/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
+  <a href="mailto:contatoruanthomaz@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://SEU-PORTFOLIO.com">
+  <a href="https://site-portfolio-ruan-thomaz.vercel.app/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
