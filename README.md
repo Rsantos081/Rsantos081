@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <h1>👋 Olá, me chamo Ruan Thomaz! 🌍</h1>
   <p>
     💻 Sou desenvolvedor Backend apaixonado por código e por resolver problemas.<br>
@@ -10,9 +10,9 @@
 
 <div align="center">
   <h2>📊 Estatísticas do GitHub</h2>
-  <img src="https://github-readme-stats-nu-two-44.vercel.app/api?username=Rsantos081&show_icons=true&locale=pt-br&custom_title=Ruan%20Thomaz&title_color=41B883&icon_color=41B883&ring_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-2y64.vercel.app/api?username=Rsantos081&show_icons=true&locale=pt-br&custom_title=Ruan%20Thomaz&title_color=41B883&icon_color=41B883&ring_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Estatísticas do GitHub" />
   <br><br>
-  <img src="https://github-readme-stats-nu-two-44.vercel.app/api/top-langs/?username=Rsantos081&layout=compact&langs_count=8&locale=pt-br&title_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-2y64.vercel.app/api/top-langs/?username=Rsantos081&layout=compact&langs_count=8&locale=pt-br&title_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Linguagens mais usadas" />
 </div>
 
 <br>
