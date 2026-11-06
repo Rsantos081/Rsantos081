@@ -10,7 +10,7 @@
 
 <div align="center">
   <h2>📊 Estatísticas do GitHub</h2>
-  <img width="50%" src="https://raw.githubusercontent.com/Rsantos081/Rsantos081/main/profile-summary-card-output/radical/3-stats.svg" alt="Estatísticas do GitHub" />
+  <img width="32%" src="https://raw.githubusercontent.com/Rsantos081/Rsantos081/main/profile-summary-card-output/radical/3-stats.svg" alt="Estatísticas do GitHub" />
 </div>
 
 <br>
