@@ -50,9 +50,4 @@
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://site-portfolio-ruan-thomaz.vercel.app/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</div>
+
