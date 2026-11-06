@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/ruanths/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox">
+   <a href="mailto:contatoruanthomaz@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://site-portfolio-ruan-thomaz.vercel.app/">
