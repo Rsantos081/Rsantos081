@@ -10,7 +10,9 @@
 
 <div align="center">
   <h2>📊 Estatísticas do GitHub</h2>
-  <img width="32%" src="https://raw.githubusercontent.com/Rsantos081/Rsantos081/main/profile-summary-card-output/radical/3-stats.svg" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-nu-two-44.vercel.app/api?username=Rsantos081&show_icons=true&locale=pt-br&custom_title=Ruan%20Thomaz&title_color=41B883&icon_color=41B883&ring_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Estatísticas do GitHub" />
+  <br><br>
+  <img src="https://github-readme-stats-nu-two-44.vercel.app/api/top-langs/?username=Rsantos081&layout=compact&langs_count=8&locale=pt-br&title_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Linguagens mais usadas" />
 </div>
 
 <br>
@@ -48,4 +50,3 @@
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
-
