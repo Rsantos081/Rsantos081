@@ -5,25 +5,12 @@
     🎓 Estou me formando em Análise e Desenvolvimento de Sistemas.
   </p>
 </div>
-<br>
 <div align="center">
   <h2>📊 Estatísticas do GitHub</h2>
-  <p>
-    <img src="https://raw.githubusercontent.com/Rsantos081/Rsantos081/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Resumo de atividades do GitHub" />
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/Rsantos081/Rsantos081/main/profile-summary-card-output/2077/3-stats.svg" alt="Estatísticas: commits, PRs, issues e repositórios contribuídos" />
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/Rsantos081/Rsantos081/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Linguagens por repositório" />
-    <img src="https://raw.githubusercontent.com/Rsantos081/Rsantos081/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Linguagens por commits" />
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/Rsantos081/Rsantos081/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Horários de produtividade" />
-  </p>
-  <p><sub>Cartões atualizados automaticamente todos os dias pelo GitHub Actions.</sub></p>
+  <img src="https://github-readme-stats-2y64.vercel.app/api?username=Rsantos081&show_icons=true&locale=pt-br&custom_title=Ruan%20Thomaz&title_color=41B883&icon_color=41B883&ring_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Estatísticas do GitHub" />
+  <br><br>
+  <img src="https://github-readme-stats-2y64.vercel.app/api/top-langs/?username=Rsantos081&layout=compact&langs_count=8&locale=pt-br&title_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Linguagens mais usadas" />
 </div>
-<br>
 <div align="center">
   <h2>🛠️ Tecnologias e Ferramentas</h2>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,13 +29,12 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
-<br>
 <div align="center">
   <h2>📫 Vamos conversar?</h2>
   <a href="https://www.linkedin.com/in/ruanths/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:contatoruanthomaz@gmail.com">
+   <a href="mailto:contatoruanthomaz@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://site-portfolio-ruan-thomaz.vercel.app/">
