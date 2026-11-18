@@ -1,20 +1,48 @@
-name: Profile Summary Cards
+name: Atualizar estatísticas do GitHub
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Executa diariamente às 03:00 no horário de Brasília (UTC-3).
+    - cron: "0 6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - name: Gerar cards do perfil
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Gerar cartões com os dados da conta
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # PAT armazenado em Settings > Secrets and variables > Actions.
+          # Nunca coloque o token diretamente neste arquivo.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Rsantos081
+          BRANCH_NAME: main
+          UTC_OFFSET: -3
+          EXCLUDE: ""
+          AUTO_PUSH: false
+
+      - name: Salvar cartões atualizados no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração nos cartões."
+          else
+            git commit -m "chore: atualizar estatísticas do GitHub"
+            git push origin HEAD:main
+          fi
