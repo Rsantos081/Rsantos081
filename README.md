@@ -2,6 +2,7 @@
   <h1>👋 Olá, me chamo Ruan Thomaz! 🌍</h1>
   <p>
     💻 Sou desenvolvedor Backend apaixonado por código e por resolver problemas.<br>
+      <p></p>
     🎓 Estou me formando em Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau.
   </p>
 </div>
