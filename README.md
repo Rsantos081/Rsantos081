@@ -7,7 +7,7 @@
 </div>
 <div align="center">
   <h2>📊 Estatísticas do GitHub</h2>
-  <img src="https://github-readme-stats-2y64.vercel.app/api?username=Rsantos081&include_all_commits=true&show_icons=true&rank_icon=github&locale=pt-br&custom_title=Ruan%20Thomaz%20%7C%20Study,%20Desenvolvedor%20de%20Software,%20Network&title_color=41B883&icon_color=41B883&ring_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-2y64.vercel.app/api?username=Rsantos081&include_all_commits=true&show_icons=true&rank_icon=github&locale=pt-br&custom_title=Ruan%20Thomaz%20%7C%20Desenvolvedor%20de%20Software,%20Networking&title_color=41B883&icon_color=41B883&ring_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Estatísticas do GitHub" />
   <br><br>
   <img src="https://github-readme-stats-2y64.vercel.app/api/top-langs/?username=Rsantos081&layout=compact&langs_count=8&locale=pt-br&title_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Linguagens mais usadas" />
 </div>
