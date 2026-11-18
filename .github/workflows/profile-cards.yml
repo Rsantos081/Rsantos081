@@ -46,3 +46,4 @@ jobs:
             git commit -m "chore: atualizar estatísticas do GitHub"
             git push origin HEAD:main
           fi
+
