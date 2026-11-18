@@ -7,7 +7,7 @@
 </div>
 <div align="center">
   <h2>📊 Estatísticas do GitHub</h2>
-  <img src="https://github-readme-stats-2y64.vercel.app/api?username=Rsantos081&include_all_commits=true&show_icons=true&rank_icon=github&locale=pt-br&custom_title=Ruan%20Thomaz%20%7C%20Desenvolvedor%20de%20Software,%20Networking&title_color=41B883&icon_color=41B883&ring_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-2y64.vercel.app/api?username=Rsantos081&include_all_commits=true&show_icons=true&rank_icon=github&locale=pt-br&custom_title=Ruan%20Thomaz%20%7C%20Desenvolvedor%20de%20Software,%20Networking%20%26%20C%C3%B3digo&title_color=41B883&icon_color=41B883&ring_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Estatísticas do GitHub" />
   <br><br>
   <img src="https://github-readme-stats-2y64.vercel.app/api/top-langs/?username=Rsantos081&layout=compact&langs_count=8&locale=pt-br&title_color=41B883&text_color=FFFFFF&bg_color=0D1117&border_color=41B883" alt="Linguagens mais usadas" />
 </div>
@@ -26,18 +26,4 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
-<div align="center">
-  <h2>📫 Vamos conversar?</h2>
-  <a href="https://www.linkedin.com/in/ruanths/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-   <a href="mailto:contatoruanthomaz@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://site-portfolio-ruan-thomaz.vercel.app/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</div>
+  <img src="
