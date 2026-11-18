@@ -26,4 +26,18 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
+<div align="center">
+  <h2>📫 Vamos conversar?</h2>
+  <a href="https://www.linkedin.com/in/ruanths/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:contatoruanthomaz@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://site-portfolio-ruan-thomaz.vercel.app/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</div>
